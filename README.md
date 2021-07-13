@@ -13,12 +13,15 @@ Data Science & Engineering professional with 6 years of experience.
 * SQL 
 * Python 
 * VBA
+* PySpark
 
 ## Databases
 * MS SQL Server
 * MySQL 
 * Postgresql
 * Redshift
+* AWS RDS
+* DynamoDB
 
 ## Toolkit
 * Tableau 
