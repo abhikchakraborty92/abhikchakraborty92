@@ -1,5 +1,5 @@
 # Introduction
-Data Science & Engineering professional with 6 years of experience.
+Data Science & Engineering professional with 7.5 years of experience.
 
 ## Skillset :
 * Data Visualization 
